@@ -1,2 +1,3 @@
 # Readme
-........dfghdufughdf
+........aprendiendo GIT
+mi primer repositorio
