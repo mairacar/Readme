@@ -1,4 +1,4 @@
 # Readme
 ........aprendiendo GIT
 mi primer repositorio
-segundo commit
+mi ultima linea en el repositorio
